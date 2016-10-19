@@ -1,4 +1,4 @@
-package us.codecraft.webmagic;
+package netProgramDemos;
 
 import java.io.*;
 import java.net.Socket;
